@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Michroma
+font link: https://fonts.google.com/specimen/Michroma
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
+
+
+icon designer: Vectors Point
+icon designer link: /vectorspoint
+        
+
+fontColor: {"gradient-0":"#0C8D8C","gradient-1":"#59DFDE"}
+bgColor: {"hex":""}
+iconColor: {"gradient-0":"#0C8D8C","gradient-1":"#59DFDE"}
+
+      
